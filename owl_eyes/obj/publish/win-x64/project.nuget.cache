@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CsdDy+43Vwo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SOVALO\\Desktop\\mini app\\c#\\owl_eyes\\owl_eyes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SOVALO\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\SOVALO\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.10\\microsoft.netcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\SOVALO\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\SOVALO\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.10\\microsoft.aspnetcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\SOVALO\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.10\\microsoft.netcore.app.crossgen2.win-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\bin\Release\net8.0\publish\owl_eyes.exe
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\bin\Release\net8.0\publish\owl_eyes.dll
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\bin\Release\net8.0\publish\owl_eyes.deps.json
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\bin\Release\net8.0\publish\owl_eyes.runtimeconfig.json
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\bin\Release\net8.0\publish\owl_eyes.pdb

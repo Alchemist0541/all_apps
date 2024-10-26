@@ -1,0 +1,14 @@
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\bin\Release\net8.0\owl_eyes.exe
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\bin\Release\net8.0\owl_eyes.deps.json
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\bin\Release\net8.0\owl_eyes.runtimeconfig.json
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\bin\Release\net8.0\owl_eyes.dll
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\bin\Release\net8.0\owl_eyes.pdb
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\obj\Release\net8.0\owl_eyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\obj\Release\net8.0\owl_eyes.AssemblyInfoInputs.cache
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\obj\Release\net8.0\owl_eyes.AssemblyInfo.cs
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\obj\Release\net8.0\owl_eyes.csproj.CoreCompileInputs.cache
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\obj\Release\net8.0\owl_eyes.dll
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\obj\Release\net8.0\refint\owl_eyes.dll
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\obj\Release\net8.0\owl_eyes.pdb
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\obj\Release\net8.0\owl_eyes.genruntimeconfig.cache
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\obj\Release\net8.0\ref\owl_eyes.dll

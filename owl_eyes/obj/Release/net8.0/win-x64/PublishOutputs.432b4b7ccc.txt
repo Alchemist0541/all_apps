@@ -1,0 +1,2 @@
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\bin\Release\net8.0\publish\win-x64\owl_eyes.pdb
+C:\Users\SOVALO\Desktop\mini app\c#\owl_eyes\bin\Release\net8.0\publish\win-x64\owl_eyes.exe
